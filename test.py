@@ -1,3 +1,6 @@
 import pandas
 
-print("Hallo")
+first_name = "Michal"
+last_name = "Ront"
+
+print(f"Hallo User: {first_name} {last_name}")
